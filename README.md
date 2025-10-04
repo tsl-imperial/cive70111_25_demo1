@@ -1,4 +1,4 @@
-# CIVE70111 Machine Learning Library
+# CIVE70111 Machine Learning Gallery
 
 In this exercise, you'll learn how to use GitHub to make contributions collaboratively.
 
