@@ -23,7 +23,11 @@ In this exercise, you'll learn how to use GitHub to make contributions collabora
    - Add your name and website link at the bottom of the list, for example:
 
      ```markdown
-     - [Your Name](https://yourname.lovable.dev)
+     ## Your Name
+
+     [Website Name](https://website_name.lovable.app/)
+
+     Your website description
      ```
 
 5. **Commit your change**
