@@ -1,4 +1,4 @@
-# Personal Website Assignment (CIVE70111 Machine Learning)
+# CIVE70111 Machine Learning Library
 
 In this exercise, you'll learn how to use GitHub to make contributions collaboratively.
 
