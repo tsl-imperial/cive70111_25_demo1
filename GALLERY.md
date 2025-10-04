@@ -22,6 +22,12 @@ Vincent's Personal Website
 2. Wearing suggestion acording to today's weather
 3. Opening hours of library and Cafe near Imperial College.
 
+## Surya Prayoga
+
+[Stock Dashboard](https://stockbyme.lovable.app/)
+
+Track top gaining stocks from UK, US, and Japan markets. Clean and simple stock dashboard with easy-to-read data and manual refresh controls.
+
 ## Akaravin Kongvinyu (James)
 
 [World Wonders Explorer](https://akaravinkongvinyu.lovable.app/)
