@@ -8,6 +8,12 @@
 
 Real-time departure information for South Kensington Underground Station
 
+## Vincent Wu
+
+[Vincent Says Hi](https://vincent-says-hi.lovable.app)
+
+Vincent's Personal Website
+
 ## Christian Cai
 
 [Imperial Weather & Food](https://imperial-wear-weather.lovable.app)
