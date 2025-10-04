@@ -32,4 +32,4 @@ Track top gaining stocks from UK, US, and Japan markets. Clean and simple stock 
 
 [World Wonders Explorer](https://akaravinkongvinyu.lovable.app/)
 
-A spinning globe with the wonders of the world.
+Search and Travel around the World by World Wonders Explorer
