@@ -33,3 +33,8 @@ Track top gaining stocks from UK, US, and Japan markets. Clean and simple stock 
 [World Wonders Explorer](https://akaravinkongvinyu.lovable.app/)
 
 A spinning globe with the wonders of the world.
+
+## Chanaporn Vethakarn (Paul)
+[Sudoku game](https://sudoku-can-do.lovable.app)
+
+Sudoku is a logic-based game played which fill number 1 to 9 in rolls and columns.
