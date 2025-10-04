@@ -24,6 +24,6 @@ Vincent's Personal Website
 
 ## Akaravin Kongvinyu (James)
 
-[My Personal Website](https://akaravinkongvinyu.lovable.app/)
+[World Wonders Explorer](https://akaravinkongvinyu.lovable.app/)
 
-Please add a short description of your website here.
+A spinning globe with the wonders of the world.
