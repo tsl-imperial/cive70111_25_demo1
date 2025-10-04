@@ -21,3 +21,10 @@ Vincent's Personal Website
 1. Real-time and daily weather information near Imperial Coellge.
 2. Wearing suggestion acording to today's weather
 3. Opening hours of library and Cafe near Imperial College.
+
+## Surya Prayoga
+
+[Website Name](https://stockbyme.lovable.app/)
+
+Track top gaining stocks from UK, US, and Japan markets. Clean and simple stock dashboard with easy-to-read data and manual refresh controls.
+
