@@ -24,7 +24,7 @@ Vincent's Personal Website
 
 ## Surya Prayoga
 
-[Website Name](https://stockbyme.lovable.app/)
+[Stock Dashboard](https://stockbyme.lovable.app/)
 
 Track top gaining stocks from UK, US, and Japan markets. Clean and simple stock dashboard with easy-to-read data and manual refresh controls.
 
