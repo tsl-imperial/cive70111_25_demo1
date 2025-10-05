@@ -38,3 +38,8 @@ Search and Travel around the World by World Wonders Explorer
 [Sudoku game](https://sudoku-can-do.lovable.app)
 
 Sudoku is a logic-based puzzle where the goal is to fill a 9x9 grid with digits so that each column, row, and 3x3 subgrid contains all of the digits from 1 to 9.
+
+## Clive Gwee
+[Maze Game](https://maze-chase.lovable.app/)
+
+A simple game to navigate your way around a maze. Just click and drag the circle.
