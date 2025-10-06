@@ -52,3 +52,9 @@ Shows real-time opera repertoire from the world’s leading opera houses. (The r
 
 A simple game to navigate your way around a maze. Just click and drag the circle.
 
+## Qinyuan Xu(Joel)
+
+[Odd-Color-Out](https://xqy-odd-color-game.lovable.app/)
+
+A quick color perception game where players spot the odd tile — a simple, addictive challenge popular on Chinese apps like Douyin.
+
