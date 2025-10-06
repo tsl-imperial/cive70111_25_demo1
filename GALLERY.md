@@ -39,8 +39,16 @@ Search and Travel around the World by World Wonders Explorer
 
 Sudoku is a logic-based puzzle where the goal is to fill a 9x9 grid with digits so that each column, row, and 3x3 subgrid contains all of the digits from 1 to 9.
 
+
 ## Sergi Marsol
 
 [Worldwide Opera Repertoire](https://opera-voyage-hub.lovable.app)
 
 Shows real-time opera repertoire from the world’s leading opera houses. (The real time functionality needs refinement, currently not working. A sample data set of operas is shown instead)
+
+## Clive Gwee
+
+[Maze Game](https://maze-chase.lovable.app/)
+
+A simple game to navigate your way around a maze. Just click and drag the circle.
+
