@@ -58,3 +58,8 @@ A simple game to navigate your way around a maze. Just click and drag the circle
 
 A quick color perception game where players spot the odd tile — a simple, addictive challenge popular on Chinese apps like Douyin.
 
+## Iker Decimavilla 
+
+[Atleti-next-up](https://atleti-next-up.lovable.app/)
+
+Track Atlético de Madrid's next fixture with live countdown and stay updated with the latest news headlines.
