@@ -8,6 +8,8 @@
 
 Real-time departure information for South Kensington Underground Station
 
-- [City Temperature Game](https://city-temp-tilt.lovable.app/) 
+## Reed Smith
+
+[City Temperature Game](https://city-temp-tilt.lovable.app/) 
 
 Guess if the next capital city is hotter or colder! A game comparing real-time temperatures of world capitals.
