@@ -7,3 +7,7 @@
 [South Kensington Station - Live Departures](https://sk-departure-dance.lovable.app/)
 
 Real-time departure information for South Kensington Underground Station
+
+- [City Temperature Game](https://city-temp-tilt.lovable.app/) 
+
+Guess if the next capital city is hotter or colder! A game comparing real-time temperatures of world capitals.
