@@ -1,4 +1,4 @@
-# Personal Website Assignment (CIVE70111 Machine Learning)
+# CIVE70111 Machine Learning Gallery
 
 In this exercise, you'll learn how to use GitHub to make contributions collaboratively.
 
@@ -46,3 +46,11 @@ In this exercise, you'll learn how to use GitHub to make contributions collabora
 **fork → branch → edit → commit → pull request**
 
 See the [Gallery](./GALLERY.md) for everyone's contributions!
+
+## 👩‍💻 Contributors
+
+Thanks to all our contributors! 🎉  
+
+You can see everyone who has contributed below:
+
+[![Contributors](https://contrib.rocks/image?repo=tsl-imperial/cive70111_25_demo1)](https://github.com/tsl-imperial/cive70111_25_demo1/graphs/contributors)
