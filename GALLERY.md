@@ -70,3 +70,8 @@ Track Atlético de Madrid's next fixture with live countdown and stay updated wi
 
 Guess if the next capital city is hotter or colder! A game comparing real-time temperatures of world capitals.
 
+## Annabel Bray
+
+[Recipe Generator](https://recipe-alchemy-96.lovable.app/)
+
+Input ingredients from your fridge and the cuisine you are craving to get tailored recipe recommendations.
