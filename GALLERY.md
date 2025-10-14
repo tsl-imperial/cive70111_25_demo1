@@ -74,4 +74,4 @@ Guess if the next capital city is hotter or colder! A game comparing real-time t
 
 [Recipe Generator](https://recipe-alchemy-96.lovable.app/)
 
-Input fridge ingredients and cuisine you are craving to be given tailored recipe reconmendations.
+Input ingredients from your fridge and the cuisine you are craving to get tailored recipe recommendations.
