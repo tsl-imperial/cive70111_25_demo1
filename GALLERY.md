@@ -126,3 +126,9 @@ A website to manage your daily expenses.
 [SustainaPlate](https://lancet-meal-planner.lovable.app)
 
 Weekly recipes & grocery list in alignment with the EAT Lancet diet (also known as the Planetary Health diet) providing students with budget friendly, healthy and planet boundary respecting recipes. The website also provides information on seasonal produce, meal prep ideas and fun facts about sustainability in the food industry. 
+
+## Helen Petrou
+
+[Mood Tracker](https://mood-track-emojis.lovable.app)
+
+Log your mood throughout the day and view weekly summaries.
