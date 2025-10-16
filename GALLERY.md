@@ -132,3 +132,9 @@ Weekly recipes & grocery list in alignment with the EAT Lancet diet (also known 
 [Mood Tracker](https://mood-track-emojis.lovable.app)
 
 Log your mood throughout the day and view weekly summaries.
+
+## Fanrui Chen
+
+[Ghibli Magic Studio](https://chenfanrui.lovable.app)
+
+Transform your photos into enchanting Studio Ghibli artwork. Upload your image and watch as AI brings it to life with the dreamy, hand-painted style of Hayao Miyazaki's masterpieces
