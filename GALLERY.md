@@ -96,9 +96,8 @@ Train departures from London Euston, including train headcode IDs, train unit nu
 and operator codes. Lovable cannot seem to fetch live data and decided to create its
 own mock data in the same format (They wouldn't all be running on time otherwise!)
 
-
 ## Anton Glotov
 
-[Bitcoin price predictor] (https://crypto-crystalball.lovable.app/)
+[Bitcoin price predictor](https://crypto-crystalball.lovable.app/)
 
 "A sophisticated machine learning application that uses 7 day price patterns to predict tomorrows Bitcoin price direction with high accuracy. Built with PyTorch and featuring a sleek Streamlit interface." As quoted by the repository on which this interface is based. 
