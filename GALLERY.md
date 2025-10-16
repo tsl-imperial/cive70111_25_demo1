@@ -91,8 +91,14 @@ Quick search of the section properties and dimensions of steel sections in Euroc
 
 Type the ingredients you have and instantly get the best matching recipes.
 
+## Shayan Rajabali
+
+[Space Blaster](https://six-sec-synth-blitz.lovable.app/)
+
+Fast-paced 60-second arcade shooter with retro-futuristic neon aesthetics. Aim, shoot, and chain combos in this addictive space combat simulation.
+
 ## Chio Fuseya
 
-[OrbitTracker 3D: Real-Time Satellite & Debris Visualizer](https://orbital-echo.lovable.app/)
+[OrbitTracker 3D](https://orbital-echo.lovable.app/)
 
 Interactive 3D Earth showing real-time satellites and debris. Currently shows limited data (more objects will be shown with full API integration).
