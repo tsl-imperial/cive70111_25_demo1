@@ -109,3 +109,8 @@ Interactive 3D Earth showing real-time satellites and debris. Currently shows li
 
 Explore animals from around the world. Learn about conservation status, populations, and geographic distributions of wildlife species.
 
+## Bella Vaananen
+
+[SustainaPlate](https://lancet-meal-planner.lovable.app)
+
+Weekly recipes & grocery list in alignment with the EAT Lancet diet (also known as the Planetary Health diet) providing students with budget friendly, healthy and planet boundary respecting recipes. The website also provides information on seasonal produce, meal prep ideas and fun facts about sustainability in the food industry. 
