@@ -11,6 +11,6 @@ Real-time departure information for South Kensington Underground Station
 
 ## Helen Petrou
 
-[Mood Tracker]https://mood-track-emojis.lovable.app
+[Mood Tracker](https://mood-track-emojis.lovable.app)
 
 Log your mood throughout the day and view weekly summaries.
