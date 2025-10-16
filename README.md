@@ -3,6 +3,7 @@
 In this exercise, you'll learn how to use GitHub to make contributions collaboratively.
 
 You can see a user-friendly gallery showcase of all the apps that have been submitted so far [here](https://cive70111-showcase-gallery.lovable.app).
+
 _Note: This is also Lovable-generated!_ :)
 
 ## Instructions
