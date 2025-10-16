@@ -120,3 +120,9 @@ Guessing game to identify metro stations that contain two lines. Currently conta
 [Budget Buddy](https://daily-dollar-bot.lovable.app)
 
 A website to manage your daily expenses.
+
+## Bella Vaananen
+
+[SustainaPlate](https://lancet-meal-planner.lovable.app)
+
+Weekly recipes & grocery list in alignment with the EAT Lancet diet (also known as the Planetary Health diet) providing students with budget friendly, healthy and planet boundary respecting recipes. The website also provides information on seasonal produce, meal prep ideas and fun facts about sustainability in the food industry. 
