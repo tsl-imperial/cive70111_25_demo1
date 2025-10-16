@@ -109,7 +109,7 @@ Interactive 3D Earth showing real-time satellites and debris. Currently shows li
 
 Explore animals from around the world. Learn about conservation status, populations, and geographic distributions of wildlife species.
 
-## FANRUI CHEN
+## Fanrui Chen
 
 [Ghibli Magic Studio](https://chenfanrui.lovable.app/)
 
