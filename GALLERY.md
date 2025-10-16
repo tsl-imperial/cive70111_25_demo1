@@ -109,3 +109,8 @@ Interactive 3D Earth showing real-time satellites and debris. Currently shows li
 
 Explore animals from around the world. Learn about conservation status, populations, and geographic distributions of wildlife species.
 
+## FANRUI CHEN
+
+[Ghibli Magic Studio](https://chenfanrui.lovable.app/)
+
+Transform your photos into enchanting Studio Ghibli artwork. Upload your image and watch as AI brings it to life with the dreamy, hand-painted style of Hayao Miyazaki's masterpieces
