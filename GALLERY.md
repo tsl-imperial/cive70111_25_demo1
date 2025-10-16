@@ -90,3 +90,9 @@ Quick search of the section properties and dimensions of steel sections in Euroc
 [Meal Planner](https://marcoditrapani.lovable.app/)
 
 Type the ingredients you have and instantly get the best matching recipes.
+
+## Shayan RAJABALI
+
+[Space Blaster](https://six-sec-synth-blitz.lovable.app/)
+
+Fast-paced 60-second arcade shooter with retro-futuristic neon aesthetics. Aim, shoot, and chain combos in this addictive space combat simulation.
