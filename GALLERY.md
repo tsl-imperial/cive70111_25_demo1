@@ -109,3 +109,9 @@ Interactive 3D Earth showing real-time satellites and debris. Currently shows li
 
 Explore animals from around the world. Learn about conservation status, populations, and geographic distributions of wildlife species.
 
+
+## Bilal
+
+[Budget Buddy](https://daily-dollar-bot.lovable.app)
+
+A website to manage your daily expenses.
