@@ -2,8 +2,8 @@
 
 👋 This page collects all students' website links. Share your website here!
 
-## Panagiotis Angeloudis
+## Allison Boyd
 
-[South Kensington Station - Live Departures](https://sk-departure-dance.lovable.app/)
+[Website Name](https://job-jam-genius.lovable.app)
 
-Real-time departure information for South Kensington Underground Station
+Transform your CV and cover letter for any job in seconds with AI-powered tailoring. Optimize for ATS systems while preserving truthfulness.
