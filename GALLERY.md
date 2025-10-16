@@ -76,7 +76,7 @@ Guess if the next capital city is hotter or colder! A game comparing real-time t
 
 Input ingredients from your fridge and the cuisine you are craving to get tailored recipe recommendations.
 
-## Peng yongxi
+## Peng Yongxi
 
 [Eurocode Steel Section Properties | BS EN 1993-1-1:2005](https://peng-yong-xi.lovable.app/)
 
