@@ -75,3 +75,9 @@ Guess if the next capital city is hotter or colder! A game comparing real-time t
 [Recipe Generator](https://recipe-alchemy-96.lovable.app/)
 
 Input ingredients from your fridge and the cuisine you are craving to get tailored recipe recommendations.
+
+## Tom McArthur
+
+[Gig Rec](https://london-night-guide.lovable.app/)
+
+A website which recommends you gigs and events based on your preferences. Unfortunately I used up all my credits before it had actually become functional...
