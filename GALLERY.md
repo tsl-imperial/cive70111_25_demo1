@@ -87,3 +87,9 @@ A website which recommends you gigs and events based on your preferences. Unfort
 [Eurocode Steel Section Properties | BS EN 1993-1-1:2005](https://peng-yong-xi.lovable.app/)
 
 Quick search of the section properties and dimensions of steel sections in Eurocode.
+
+## Anton Glotov
+
+[Bitcoin price predictor] (https://crypto-crystalball.lovable.app/)
+
+"A sophisticated machine learning application that uses 7 day price patterns to predict tomorrows Bitcoin price direction with high accuracy. Built with PyTorch and featuring a sleek Streamlit interface." As quoted by the repository on which this interface is based. 
