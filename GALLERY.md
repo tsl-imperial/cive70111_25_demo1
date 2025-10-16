@@ -18,9 +18,7 @@ Vincent's Personal Website
 
 [Imperial Weather & Food](https://imperial-wear-weather.lovable.app)
 
-1. Real-time and daily weather information near Imperial Coellge.
-2. Wearing suggestion acording to today's weather
-3. Opening hours of library and Cafe near Imperial College.
+Real-time and daily weather information near Imperial College. Clothing suggestion according to today's weather. Opening hours of library and Cafe near Imperial College.
 
 ## Surya Prayoga
 
@@ -38,7 +36,6 @@ Search and Travel around the World by World Wonders Explorer
 [Sudoku game](https://sudoku-can-do.lovable.app)
 
 Sudoku is a logic-based puzzle where the goal is to fill a 9x9 grid with digits so that each column, row, and 3x3 subgrid contains all of the digits from 1 to 9.
-
 
 ## Sergi Marsol
 
