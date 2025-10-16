@@ -103,8 +103,15 @@ Fast-paced 60-second arcade shooter with retro-futuristic neon aesthetics. Aim, 
 
 Interactive 3D Earth showing real-time satellites and debris. Currently shows limited data (more objects will be shown with full API integration).
 
+## Andrew Patten
+
+[Wildlife Explorer](https://wildlife-explorer.lovable.app/)
+
+Explore animals from around the world. Learn about conservation status, populations, and geographic distributions of wildlife species.
+
+
 ## Bilal
 
-[Budget buddy](https://daily-dollar-bot.lovable.app)
+[Budget Buddy](https://daily-dollar-bot.lovable.app)
 
-A website to manage your daily expenses
+A website to manage your daily expenses.
