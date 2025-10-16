@@ -90,3 +90,9 @@ Quick search of the section properties and dimensions of steel sections in Euroc
 [Meal Planner](https://marcoditrapani.lovable.app/)
 
 Type the ingredients you have and instantly get the best matching recipes.
+
+## Chio Fuseya
+
+[OrbitTracker 3D: Real-Time Satellite & Debris Visualizer](https://orbital-echo.lovable.app/)
+
+Interactive 3D Earth showing real-time satellites and debris. Currently shows limited data (more objects will be shown with full API integration).
