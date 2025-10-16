@@ -88,16 +88,8 @@ A website which recommends you gigs and events based on your preferences. Unfort
 
 Quick search of the section properties and dimensions of steel sections in Eurocode.
 
-## Edgar Leung
+## Marco Di Trapani
 
-[Euston Departures](https://euston-pulse-visuals.lovable.app)
+[Meal Planner](https://marcoditrapani.lovable.app/)
 
-Train departures from London Euston, including train headcode IDs, train unit numbers,
-and operator codes. Lovable cannot seem to fetch live data and decided to create its
-own mock data in the same format (They wouldn't all be running on time otherwise!)
-
-## Anton Glotov
-
-[Bitcoin price predictor](https://crypto-crystalball.lovable.app/)
-
-A sophisticated machine learning application that uses 7 day price patterns to predict tomorrows Bitcoin price direction with high accuracy. Built with PyTorch and featuring a sleek Streamlit interface.
+Type the ingredients you have and instantly get the best matching recipes.
