@@ -4,7 +4,7 @@
 
 ## Panagiotis Angeloudis
 
-[South Kensington Station - Live Departures](https://sk-departure-dance.lovable.app/)
+[South Kensington Station - Live Departures](https://southkensington-live-arrivals.lovable.app))
 
 Real-time departure information for South Kensington Underground Station
 
