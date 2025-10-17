@@ -146,9 +146,14 @@ Transform your photos into enchanting Studio Ghibli artwork. Upload your image a
 
 An AI-powered web app that analyses your favourite DJs or sets to understand your music taste and recommend new mixes you’ll love
 
-
 ## Gloria Chan
 
-[Travel Itinerary Generator](https://city-guide-gen.lovable.app/)
+[Travel Itinerary Generator](https://city-guide-gen.lovable.app)
 
 A web app that instantly creates personalised travel itineraries. Enter your city, travel dates, and start/end times — the app finds top attractions, plans your day with travel details, and presents it all in a friendly, travel-blog style.
+
+## Allison Boyd
+
+[Job Application Tailor](https://job-jam-genius.lovable.app)
+
+Transform your CV and cover letter for any job in seconds with AI-powered tailoring. Optimize for ATS systems while preserving truthfulness.
