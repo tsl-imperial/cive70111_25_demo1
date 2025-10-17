@@ -33,6 +33,7 @@ Track top gaining stocks from UK, US, and Japan markets. Clean and simple stock 
 Search and Travel around the World by World Wonders Explorer
 
 ## Chanaporn Vethakarn (Paul)
+
 [Sudoku game](https://sudoku-can-do.lovable.app)
 
 Sudoku is a logic-based puzzle where the goal is to fill a 9x9 grid with digits so that each column, row, and 3x3 subgrid contains all of the digits from 1 to 9.
@@ -63,7 +64,7 @@ Track Atlético de Madrid's next fixture with live countdown and stay updated wi
 
 ## Reed Smith
 
-[City Temperature Game](https://city-temp-tilt.lovable.app) 
+[City Temperature Game](https://city-temp-tilt.lovable.app)
 
 Guess if the next capital city is hotter or colder! A game comparing real-time temperatures of world capitals.
 
@@ -125,7 +126,7 @@ A website to manage your daily expenses.
 
 [SustainaPlate](https://lancet-meal-planner.lovable.app)
 
-Weekly recipes & grocery list in alignment with the EAT Lancet diet (also known as the Planetary Health diet) providing students with budget friendly, healthy and planet boundary respecting recipes. The website also provides information on seasonal produce, meal prep ideas and fun facts about sustainability in the food industry. 
+Weekly recipes & grocery list in alignment with the EAT Lancet diet (also known as the Planetary Health diet) providing students with budget friendly, healthy and planet boundary respecting recipes. The website also provides information on seasonal produce, meal prep ideas and fun facts about sustainability in the food industry.
 
 ## Helen Petrou
 
@@ -138,3 +139,10 @@ Log your mood throughout the day and view weekly summaries.
 [Ghibli Magic Studio](https://chenfanrui.lovable.app)
 
 Transform your photos into enchanting Studio Ghibli artwork. Upload your image and watch as AI brings it to life with the dreamy, hand-painted style of Hayao Miyazaki's masterpieces
+
+## Kai Zhuo
+
+SetMatch (https://set-vibe-explorer.lovable.app)
+
+An AI-powered web app that analyses your favourite DJs or sets to understand your music taste and recommend new mixes you’ll love
+
