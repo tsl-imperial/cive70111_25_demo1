@@ -158,7 +158,7 @@ A web app that instantly creates personalised travel itineraries. Enter your cit
 
 Transform your CV and cover letter for any job in seconds with AI-powered tailoring. Optimize for ATS systems while preserving truthfulness.
 
-## Matthew Willims
+## Matthew Williams
 
 [Guinness Pint Finder](https://guinness-finder-dash.lovable.app)
 
