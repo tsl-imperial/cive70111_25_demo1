@@ -138,3 +138,10 @@ Log your mood throughout the day and view weekly summaries.
 [Ghibli Magic Studio](https://chenfanrui.lovable.app)
 
 Transform your photos into enchanting Studio Ghibli artwork. Upload your image and watch as AI brings it to life with the dreamy, hand-painted style of Hayao Miyazaki's masterpieces
+
+## Gloria Chan
+
+[Travel Itinerary Generator] (https://city-guide-gen.lovable.app/)
+
+A web app that instantly creates personalised travel itineraries.
+Enter your city, travel dates, and start/end times — the app finds top attractions, plans your day with travel details, and presents it all in a friendly, travel-blog style.
