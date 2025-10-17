@@ -16,7 +16,7 @@ Vincent's Personal Website
 
 ## Christian Cai
 
-[Imperial Weather \& Food](https://imperial-wear-weather.lovable.app)
+[Imperial Weather & Food](https://imperial-wear-weather.lovable.app)
 
 Real-time and daily weather information near Imperial College. Clothing suggestion according to today's weather. Opening hours of library and Cafe near Imperial College.
 
@@ -126,7 +126,7 @@ A website to manage your daily expenses.
 
 [SustainaPlate](https://lancet-meal-planner.lovable.app)
 
-Weekly recipes \& grocery list in alignment with the EAT Lancet diet (also known as the Planetary Health diet) providing students with budget friendly, healthy and planet boundary respecting recipes. The website also provides information on seasonal produce, meal prep ideas and fun facts about sustainability in the food industry.
+Weekly recipes & grocery list in alignment with the EAT Lancet diet (also known as the Planetary Health diet) providing students with budget friendly, healthy and planet boundary respecting recipes. The website also provides information on seasonal produce, meal prep ideas and fun facts about sustainability in the food industry.
 
 ## Helen Petrou
 
@@ -140,17 +140,9 @@ Log your mood throughout the day and view weekly summaries.
 
 Transform your photos into enchanting Studio Ghibli artwork. Upload your image and watch as AI brings it to life with the dreamy, hand-painted style of Hayao Miyazaki's masterpieces
 
+## Kai Zhuo
 
-
-\## Kai Zhuo
-
-
-
-SetMatch (https://set-vibe-explorer.lovable.app/)
-
-
+SetMatch (https://set-vibe-explorer.lovable.app)
 
 An AI-powered web app that analyses your favourite DJs or sets to understand your music taste and recommend new mixes you’ll love
-
-
 
