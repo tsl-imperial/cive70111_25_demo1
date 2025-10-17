@@ -142,7 +142,13 @@ Transform your photos into enchanting Studio Ghibli artwork. Upload your image a
 
 ## Kai Zhuo
 
-SetMatch (https://set-vibe-explorer.lovable.app)
+[SetMatch](https://set-vibe-explorer.lovable.app)
 
 An AI-powered web app that analyses your favourite DJs or sets to understand your music taste and recommend new mixes you’ll love
 
+
+## Gloria Chan
+
+[Travel Itinerary Generator](https://city-guide-gen.lovable.app/)
+
+A web app that instantly creates personalised travel itineraries. Enter your city, travel dates, and start/end times — the app finds top attractions, plans your day with travel details, and presents it all in a friendly, travel-blog style.
