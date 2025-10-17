@@ -4,6 +4,6 @@
 
 ## Allison Boyd
 
-[Website Name](https://job-jam-genius.lovable.app)
+[Job Application Tailor](https://job-jam-genius.lovable.app)
 
 Transform your CV and cover letter for any job in seconds with AI-powered tailoring. Optimize for ATS systems while preserving truthfulness.
