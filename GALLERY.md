@@ -157,3 +157,9 @@ A web app that instantly creates personalised travel itineraries. Enter your cit
 [Job Application Tailor](https://job-jam-genius.lovable.app)
 
 Transform your CV and cover letter for any job in seconds with AI-powered tailoring. Optimize for ATS systems while preserving truthfulness.
+
+## Matthew Williams
+
+[Guinness Pint Finder](https://guinness-finder-dash.lovable.app)
+
+Instantly find the three closest pints of Guinness to your current location, ranked by price.
