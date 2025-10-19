@@ -174,5 +174,4 @@ It can provide the most optimal choice of food in the balance of health, price, 
 
 [All Roads Lead to Rome?](https://all-roads-lead-to-rome.lovable.app/)
 
-[Please add a short description of your project here.] You need a Mapbox access token. See [the documentation on access tokens](https://docs.mapbox.com/help/dive-deeper/access-tokens/) to get started.
-
+You need a Mapbox access token for this app.
