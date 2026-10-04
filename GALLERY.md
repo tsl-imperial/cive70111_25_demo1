@@ -7,3 +7,9 @@ Student websites for this year. Add yours at the bottom; see the [README](./READ
 [South Kensington Station - Live Departures](https://southkensington-live-arrivals.lovable.app)
 
 Real-time departure information for South Kensington Underground Station
+
+## Jingyi Chen (Jessica)
+
+[Time Manager](https://jingyichen.lovable.app)
+
+This is a time management application that allows you to create your own to-do items, order them, and label them with different colors. You can merge tasks to run them concurrently, as well as analyze your to-do items in the history log with detailed statistics to gain insights into your time distribution.
