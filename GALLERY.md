@@ -8,6 +8,12 @@ Student websites for this year. Add yours at the bottom; see the [README](./READ
 
 Real-time departure information for South Kensington Underground Station
 
+
+## Kevin Yu
+[Sudoku Game](https://kevin-sudoku.lovable.app)
+
+Interactive sudoku game
+
 ## Elie Mouterde
 
 [Climb Compare](https://climb-compare-london.lovable.app/)
