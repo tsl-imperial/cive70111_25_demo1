@@ -8,10 +8,28 @@ Student websites for this year. Add yours at the bottom; see the [README](./READ
 
 Real-time departure information for South Kensington Underground Station
 
+
 ## Kevin Yu
 [Sudoku Game](https://kevin-sudoku.lovable.app)
 
 Interactive sudoku game
+
+## Elie Mouterde
+
+[Climb Compare](https://climb-compare-london.lovable.app/)
+Every bouldering membership in London, side by side. 
+
+## Jingyi Chen (Jessica)
+
+[Time Manager](https://jingyichen.lovable.app)
+
+This is a time management application that allows you to create your own to-do items, order them, and label them with different colors. You can merge tasks to run them concurrently, as well as analyze your to-do items in the history log with detailed statistics to gain insights into your time distribution.
+
+## Mahendra Alif Nugrohoputra
+
+[Flappy Bird but Imperial](https://flappy-imperial.lovable.app/)
+
+A game, just like flappy bird, but "imperial-ized" xD
 
 ## Elga Ramdani
 
