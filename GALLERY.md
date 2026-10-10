@@ -8,6 +8,11 @@ Student websites for this year. Add yours at the bottom; see the [README](./READ
 
 Real-time departure information for South Kensington Underground Station
 
+## Elga Ramdani
+
+[Elga's Life Manager](https://elgas-life-manager.lovable.app/)
+
+A minimalist student manager for tracking academic deadlines, daily priorities, personal expenses, and career milestones.
 ## Jingyao Chen
 
 [Preflop Lab](https://preflop-zen-buddy.lovable.app/)
