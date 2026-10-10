@@ -12,3 +12,15 @@ Real-time departure information for South Kensington Underground Station
 [Sudoku Game](https://kevin-sudoku.lovable.app)
 
 Interactive sudoku game
+
+## Elga Ramdani
+
+[Elga's Life Manager](https://elgas-life-manager.lovable.app/)
+
+A minimalist student manager for tracking academic deadlines, daily priorities, personal expenses, and career milestones.
+
+## Jingyao Chen
+
+[Preflop Lab](https://preflop-zen-buddy.lovable.app/)
+
+An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
