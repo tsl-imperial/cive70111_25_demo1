@@ -14,6 +14,11 @@ Real-time departure information for South Kensington Underground Station
 
 A game, just like flappy bird, but "imperial-ized" xD
 
+## Elga Ramdani
+
+[Elga's Life Manager](https://elgas-life-manager.lovable.app/)
+
+A minimalist student manager for tracking academic deadlines, daily priorities, personal expenses, and career milestones.
 
 ## Jingyao Chen
 
