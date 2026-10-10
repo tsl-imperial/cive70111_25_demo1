@@ -14,3 +14,9 @@ Real-time departure information for South Kensington Underground Station
 
 A game, just like flappy bird, but "imperial-ized" xD
 
+
+## Jingyao Chen
+
+[Preflop Lab](https://preflop-zen-buddy.lovable.app/)
+
+An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
