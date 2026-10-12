@@ -42,3 +42,5 @@ A minimalist student manager for tracking academic deadlines, daily priorities, 
 [Preflop Lab](https://preflop-zen-buddy.lovable.app/)
 
 An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
+
+- [Vittoria Rambaldi](https://the-literary-corner.lovable.app)
