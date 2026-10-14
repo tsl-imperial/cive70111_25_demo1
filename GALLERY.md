@@ -9,7 +9,9 @@ Student websites for this year. Add yours at the bottom; see the [README](./READ
 Real-time departure information for South Kensington Underground Station
 
 
+
 ## Kevin Yu
+
 [Sudoku Game](https://kevin-sudoku.lovable.app)
 
 Interactive sudoku game
@@ -17,7 +19,7 @@ Interactive sudoku game
 ## Elie Mouterde
 
 [Climb Compare](https://climb-compare-london.lovable.app/)
-Every bouldering membership in London, side by side. 
+Every bouldering membership in London, side by side.
 
 ## Jingyi Chen (Jessica)
 
@@ -42,3 +44,12 @@ A minimalist student manager for tracking academic deadlines, daily priorities, 
 [Preflop Lab](https://preflop-zen-buddy.lovable.app/)
 
 An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
+
+## Juan Castrillon
+
+[Curiosity Vault](https://pixel-perfect-render-79053.lovable.app)
+
+Personal digital library to organize books, articles, movies, and TV series. A space to support professional growth and keep track of personal interests.
+
+
+
