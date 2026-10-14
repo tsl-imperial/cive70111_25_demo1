@@ -42,3 +42,9 @@ A minimalist student manager for tracking academic deadlines, daily priorities, 
 [Preflop Lab](https://preflop-zen-buddy.lovable.app/)
 
 An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
+
+## Juan Olid Stepanchuk
+
+[Juan's UK SRN closures dashboard](https://uk-srn-closures-report.lovable.app/)
+
+An interactive dashboard featuring key data, graphs and a map of the UK's strategic road network planned closures for the full week. The dashboard uses the 7-day road closure reports that National Highways publishes regularly on its website, which currently does not include an overall map nor visual road closure types classification.
