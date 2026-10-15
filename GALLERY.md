@@ -42,3 +42,9 @@ A minimalist student manager for tracking academic deadlines, daily priorities, 
 [Preflop Lab](https://preflop-zen-buddy.lovable.app/)
 
 An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
+
+## Thibault Lapierre
+
+[WanderPath](https://scenic-london-paths.lovable.app)
+
+A scenic navigation app that trades the fastest route for the most picturesque detour, complete with curated landmarks and local trivia.
