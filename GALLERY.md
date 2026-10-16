@@ -42,3 +42,9 @@ A minimalist student manager for tracking academic deadlines, daily priorities, 
 [Preflop Lab](https://preflop-zen-buddy.lovable.app/)
 
 An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
+
+## Sophie Boulet 
+
+[[Crosswords](https://clue-crafter-box.lovable.app)]
+
+Crosswords generator website 
