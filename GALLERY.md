@@ -42,3 +42,9 @@ A minimalist student manager for tracking academic deadlines, daily priorities, 
 [Preflop Lab](https://preflop-zen-buddy.lovable.app/)
 
 An interactive bilingual Texas Hold’em preflop decision trainer with position- and scenario-based action frequencies for 100BB cash games.
+
+## Saif Al Hasson
+
+[Study Compass](https://study-compass-course-tracker.lovable.app)
+
+A study tracker for university modules, with weekly progress grids, deadlines, to dos and a past paper log.
